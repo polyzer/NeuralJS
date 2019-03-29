@@ -1,2 +1,0 @@
-# NeuralJS
-Created with CodeSandbox
